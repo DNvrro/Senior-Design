@@ -13,7 +13,7 @@ starttime = time.time()
 import datetime
 now = datetime.datetime.now()
 
-from battery_monitor import *
+from get_data import *
 
 
 try:
